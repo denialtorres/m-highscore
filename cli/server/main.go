@@ -2,7 +2,7 @@ package main
 
 import (
 	"flag"
-	grpcSetup "github.com/denialtorres/m-highscore/internal/server/grpc"
+	grpcSetup "github.com/denialtorres/m-highscore/grpc/server/grpc"
 	"github.com/rs/zerolog/log"
 )
 
