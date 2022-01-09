@@ -1,4 +1,4 @@
-module games
+module github.com/denialtorres/m-highscore/grpc/server/grpc
 
 go 1.17
 
